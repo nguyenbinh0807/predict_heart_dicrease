@@ -30,3 +30,4 @@ models = {"KNN": KNeighborsClassifier(),
 </li>
 </ul>
 <div>các bước được viết trong file này: <a href='https://github.com/nguyenbinh0807/predict_heart_dicrease/blob/main/heart.ipynb'>file heart</a> </div>
+<div>dataset from kaggle: <a href='
