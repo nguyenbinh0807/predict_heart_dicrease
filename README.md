@@ -31,3 +31,15 @@ models = {"KNN": KNeighborsClassifier(),
 </ul>
 <div>các bước được viết trong file này: <a href='https://github.com/nguyenbinh0807/predict_heart_dicrease/blob/main/heart.ipynb'>file heart</a> </div>
 <div>dataset from kaggle: <a href='https://github.com/nguyenbinh0807/predict_heart_dicrease/blob/main/heart-disease.csv'>dataset</a> shape 304 row and 14 columns
+
+References:
+
+https://www.hindawi.com/journals/cin/2021/8387680/
+
+World Health Organization, Cardiovascular Diseases, WHO, Geneva, Switzerland, 2020, https://www.who.int/health-topics/cardiovascular-diseases/#tab=tab_1.
+
+American Heart Association, Classes of Heart Failure, American Heart Association, Chicago, IL, USA, 2020, https://www.heart.org/en/health-topics/heart-failure/what-is-heart-failure/classes-of-heart-failure.
+
+American Heart Association, Heart Failure, American Heart Association, Chicago, IL, USA, 2020, https://www.heart.org/en/health-topics/heart-failure.
+
+
