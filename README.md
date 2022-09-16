@@ -6,3 +6,4 @@ models = {"KNN": KNeighborsClassifier(),
           "Logistic Regression": LogisticRegression(), 
           "Random Forest": RandomForestClassifier()}
   
+![Architecture](https://github.com/tuanlda78202/tuanlda78202/blob/main/bannerLinkedIn.png) 
