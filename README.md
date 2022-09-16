@@ -6,4 +6,4 @@ models = {"KNN": KNeighborsClassifier(),
           "Logistic Regression": LogisticRegression(), 
           "Random Forest": RandomForestClassifier()}
   
-![Architecture](https://github.com/tuanlda78202/tuanlda78202/blob/main/bannerLinkedIn.png) 
+![Architecture](https://github.com/nguyenbinh0807/predict_heart_dicrease/blob/main/newplot.png) 
